@@ -16,7 +16,9 @@ nav {
   display: none;
 }
 
-
+.hero img{
+  width: 100%;
+}
 /* img {
   width: 100px;
 } */
